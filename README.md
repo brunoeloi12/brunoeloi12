@@ -1,9 +1,10 @@
 
 ### Olá! Eu sou Bruno Eloi e este é meu perfil 🖐 
+Desenvolvedor FullStack focado em TypeScript e Node.JS.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devbrunoeloi/)
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoeloi12&show_icons=true&theme=dark)
+![Bruno GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=brunoeloi12&show_icons=true&theme=highcontrast)
 
 ## Tecnologias que eu uso no meu dia-a-dia
 <div style="display: inline_block"><br />
@@ -18,3 +19,12 @@
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
+
+## 💻 Focadas na Arte de Programar:
+- Escrevendo código limpo para humanos, executável por máquinas.
+
+- Eterno aprendiz na arte de transformar lógica em interface.
+
+- Em busca do algoritmo perfeito e do código mais eficiente.
+
+- Explorador de novas stacks e entusiasta de código aberto.
