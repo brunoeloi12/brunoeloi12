@@ -5,8 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devbrunoeloi/)
 
----
-
 ## 🚀 Sobre mim
 
 * Desenvolvedor focado na criação de aplicações escaláveis, performáticas e de alto impacto utilizando **TypeScript**, **Node.js**, **React**, **Next.js** e **NestJS**.
